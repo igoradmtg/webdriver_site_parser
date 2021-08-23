@@ -10,5 +10,6 @@ pip install selenium
 edit file:
 export_file.csv
 
+execute:
 python3 read_csv.py
 
